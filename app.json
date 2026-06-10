@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Tarefinhas",
+    "slug": "tarefinhas-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "tarefinhas",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#fff7ed" } },
+    "web": { "bundler": "metro" }
+  }
+}
